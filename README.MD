@@ -1,6 +1,6 @@
 # NeuroStartUp
 
-![c:\Users\HP\Desktop\logo.png](./logo.png)
+![](c:\Users\HP\Desktop\logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
  новейших технологий искусственного интеллекта.
